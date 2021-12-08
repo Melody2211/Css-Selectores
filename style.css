@@ -88,3 +88,7 @@ a[title~="tv hd digital"] {
     padding-right: 15px;
     background: url(icons-star.png) no-repeat right;
     }
+.warning { 
+font-weight: bold; 
+} 
+
